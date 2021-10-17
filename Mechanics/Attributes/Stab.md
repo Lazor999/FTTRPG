@@ -1,0 +1,1 @@
+The weapon is sharp in one way or another, so you can use it to stab people close to you. Interrupts any spell or interaction, deals 1d6 piercing damage.

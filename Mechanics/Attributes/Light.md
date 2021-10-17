@@ -1,0 +1,1 @@
+This item is Light, which doesn't take up a loadout slot.

@@ -1,0 +1,1 @@
+This armor piece has an Exoskeleton, doubling movement points (triple with Burst).

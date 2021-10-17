@@ -1,0 +1,1 @@
+Successfully hitting someone with this weapon Grazes them for one turn, allowing them to take action, but with lesser effect.

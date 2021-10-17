@@ -1,0 +1,1 @@
+You can only target the person that inflicted this debuff on you.

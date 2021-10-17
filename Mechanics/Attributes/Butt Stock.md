@@ -1,0 +1,1 @@
+You can slam the stock into the enemy's face, dealing 1d8 damage and shoving them back by 2.5 meters.

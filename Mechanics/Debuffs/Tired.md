@@ -1,0 +1,1 @@
+You cannot do any actions that take Energy to use. Speed is halved.

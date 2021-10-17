@@ -1,0 +1,1 @@
+This unit is locked down, meaning they cannot do anything for 1 turn and take double damage.

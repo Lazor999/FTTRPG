@@ -1,0 +1,1 @@
+This armor piece suffers no movement penalty due to its weight. +2 to Dodge/Dexterity saves.

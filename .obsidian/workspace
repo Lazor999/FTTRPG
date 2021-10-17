@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Territory.md",
+            "file": "Enemies/Ferdian Virus/Antling.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Territory.md",
+                "file": "Enemies/Ferdian Virus/Antling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "f163751d1d6eb2b4",
   "lastOpenFiles": [
-    "Core/Territory.md",
-    "Core/Takeover_2.png",
-    "Core/Takeover_1.png",
-    "Items/Weapons/F-ST-GL.md",
-    "Items/Weapons/F-ST-MR.md",
-    "Items/Weapons/F-ST-SG.md",
-    "Items/Weapons/F-ST-SMG.md",
-    "Items/Weapons/F-ST-SR.md",
-    "Items/Weapons/Guardian Electrospear.md",
-    "Items/Weapons/Magic Staff.md"
+    "Enemies/Ferdian Virus/Antling.md",
+    "Enemies/Ferdian Virus/Spitter.md",
+    "Enemies/Ferdian Virus/Controller.md",
+    "Enemies/Ferdian Virus/Grunt.md",
+    "Enemies/Ferdian Virus/Untitled.md",
+    "Classes/Breacher.md",
+    "Classes/Class Directory.md",
+    "Classes/Guardian.md",
+    "Classes/Mage.md",
+    "Classes/Ranger.md"
   ]
 }

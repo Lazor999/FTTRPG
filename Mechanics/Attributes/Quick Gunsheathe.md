@@ -1,0 +1,1 @@
+You can unsheathe into a high velocity slash using the velocity given by firing, making you deal double damage but taking 1 Ammo.

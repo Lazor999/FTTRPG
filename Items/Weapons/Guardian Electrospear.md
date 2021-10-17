@@ -15,6 +15,6 @@ Range: Close (3 Meters)
 
 [[Stab]]
 
-[[Flurry]]
+[[Flurry]], Normal
 
 ## Shop price: 100G

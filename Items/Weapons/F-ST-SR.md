@@ -5,7 +5,7 @@ Ferdian Standard Sniper Rifle. Can be retrofitted with AP and Lockdown rounds la
 Reload time: 1 Turn Action per bullet
 Shots: 2
 Damage: 1d45
-Accuracy: 125% Close, 65% medium, 100% far
+Accuracy: 25% Close, 65% medium, 100% far
 
 (Distance: Close is <5 meters, Medium is 5-15 Meters, far is >15 meters)
 

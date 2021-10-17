@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enemies/Ferdian Virus/Antling.md",
+            "file": "Enemies/Ferdian Virus/Grunt.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemies/Ferdian Virus/Antling.md",
+                "file": "Enemies/Ferdian Virus/Grunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "f163751d1d6eb2b4",
   "lastOpenFiles": [
-    "Enemies/Ferdian Virus/Antling.md",
+    "Enemies/Ferdian Virus/Grunt.md",
     "Enemies/Ferdian Virus/Spitter.md",
     "Enemies/Ferdian Virus/Controller.md",
-    "Enemies/Ferdian Virus/Grunt.md",
-    "Enemies/Ferdian Virus/Untitled.md",
-    "Classes/Breacher.md",
-    "Classes/Class Directory.md",
+    "Enemies/Ferdian Virus/Antling.md",
+    "Enemies/Ferdian Virus/Zombie.md",
     "Classes/Guardian.md",
-    "Classes/Mage.md",
-    "Classes/Ranger.md"
+    "Items/Weapons/F-ST-SMG.md",
+    "Classes/Ranger.md",
+    "Mechanics/Attributes/Magic Cerficate.md",
+    "Classes/Mage.md"
   ]
 }

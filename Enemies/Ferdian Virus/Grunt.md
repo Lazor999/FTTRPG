@@ -16,7 +16,7 @@ Plated - Can't dodge, but has an improved armor class.
 
 Puke - Puke out an acid pool. Units take 1d6 Acidic Damage by stepping in it.
 
-Projectile Vomit - 15-meter range. Vomit, shooting an acid bomb at the target. Explodes with 4-meter range, deals 4d6 Acidic Damage, and leaves behind an acid pool that deals 1d6 Acidic Damage.
+Projectile Vomit - 20-meter range. Vomit, shooting an acid bomb at the target. Explodes with 4-meter range, deals 4d6 Acidic Damage, and leaves behind an acid pool that deals 1d6 Acidic Damage.
 
 Punch - Deal 2d8 damage to a nearby enemy.
 
